@@ -36,7 +36,7 @@
    - Framework: Web Application
 
 2. Application Settings
-   - Sign-in redirect URI: http://localhost:3000/callback
+   - Sign-in redirect URI: http://localhost:8080/authorization-code/callback
    - Sign-out redirect URI: http://localhost:8080
    - Grant type: Authorization Code
    - User consent: Disabled for testing
